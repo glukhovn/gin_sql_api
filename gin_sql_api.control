@@ -1,0 +1,6 @@
+# gin_sql_api extension
+comment = 'SQL API for GIN indexes'
+default_version = '1.0'
+module_pathname = '$libdir/gin_sql_api'
+relocatable = true
+requires = 'intarray,jsonb_plpython3u'
